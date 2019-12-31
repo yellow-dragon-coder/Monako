@@ -1,2 +1,2 @@
-# Project-Monako
+# Monako
 Business applications for SMBs
